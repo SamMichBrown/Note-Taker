@@ -13,7 +13,6 @@ To write and take notes and save them in a column based interface for later.
 
 - JavaScript (ES6)
 - Node.js
-- Inquirer
 - NPM
 - Express
 
