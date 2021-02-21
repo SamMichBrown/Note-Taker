@@ -1,7 +1,7 @@
 # Note-Taker
 
 ## Description
- An application that allows the user to generate a Work Team for their project using node.js.
+An app that allows the user to enter notes into text feilds and save them for later viewing.
 
 ## Usage
 To write and take notes and save them in a column based interface for later.
@@ -18,7 +18,7 @@ To write and take notes and save them in a column based interface for later.
 - Express
 
 ## Website
- 
+https://intense-island-12484.herokuapp.com/
 
 ### Contribution
 Made by Samantha Brown
